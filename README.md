@@ -18,10 +18,10 @@ Credit card fraud has become a major challenge for the financial industry with b
 ## 🧠 Machine Learning Models Used
 
 - Random Forest
-- CadBoost
+- CatBoost
 - XGBoost
 - LightGBM
-- Adaboost
+- AdaBoost
 
 ---
 
